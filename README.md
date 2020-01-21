@@ -110,3 +110,4 @@ In `build.gradle`, uncomment the line `compile files('libs/ojdbc8.jar')` or `com
 ## Version History
 
 * Modified 01/15/20 10:10 AM
+* Modified 01/21/20 02:49 PM
